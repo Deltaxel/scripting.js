@@ -1,0 +1,16 @@
+scripting.js
+  |--> LICENCE
+  |--> uninstall.js
+  |
+  |--. common
+  |  |--> scripting.js
+  |  |--> config.js
+  |  |--> define.js
+  |  \--> context.js
+  |
+  \--. tools
+     |--. make
+     |
+	 \--.vs2013
+	    |--> patch.js
+		\--> update.js
