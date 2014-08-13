@@ -18,7 +18,7 @@ Then create a new project or keep an existing project.
 
 Use the setup for extract files in your project folder.
 Open a terminal and go to your download directory.
-Then use the command above and remplace 'your_project_folder' by the path of your project.
+Then use the command above and replace 'your_project_folder' by the path of your project.
 `node ./setup_node_win.js install your_project_folder`
 
 ## Visual Studio 2013
