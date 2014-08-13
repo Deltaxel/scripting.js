@@ -13,7 +13,8 @@ Compatible with node.js modules.
 You can check 'scripting.js\common\context.js' to see witch functions are implemented in execution context.
 
 # Install
-First create a new project or keep an existing project.
+First install node.js.
+Then create a new project or keep an existing project.
 
 Use the setup for extract files in your project folder.
 Open a terminal and go to your download directory.
